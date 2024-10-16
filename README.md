@@ -23,3 +23,12 @@ Per eseguire una pull, puoi utilizzare il seguente comando:
 
 ```bash
 git pull origin nome-branch
+# Operazioni Git: Commit e Clone
+
+## Commit
+
+Un **commit** è un'azione in Git che registra le modifiche apportate ai file nel tuo repository locale. Ogni commit rappresenta un'istantanea del progetto in un determinato momento, salvando le modifiche con un messaggio descrittivo.
+
+## Clone
+
+Il **clone** è un comando in Git che crea una copia locale di un repository remoto, inclusa la sua cronologia. Clonando un repository, ottieni tutti i file e la cronologia delle versioni del progetto.
